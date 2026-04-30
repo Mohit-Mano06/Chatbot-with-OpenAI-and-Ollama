@@ -1,1 +1,1 @@
-# Chatbot-with-OpenAI and Ollama Models
+# Chatbot with OpenAI and Ollama Models
